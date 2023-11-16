@@ -1,5 +1,5 @@
 # DFBRTS
-Codes of DFBRTS
+Code of DFBRTS
 
 Enhancing Motor Imagery Decoding in Brain–Computer Interfaces using Riemann Tangent Space Mapping and Cross Frequency Coupling
 
